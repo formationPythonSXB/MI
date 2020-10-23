@@ -1,5 +1,0 @@
-print (type(-12)==int)
-print (type(158))
-print (type(None))
-print (type("toto"))
-print (type(100))
